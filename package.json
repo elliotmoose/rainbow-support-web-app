@@ -1,9 +1,9 @@
 {
-  "name": "brunch-app",
-  "description": "Brunch.io application",
+  "name": "rainbow-web-sdk-react",
+  "description": "React + Brunch Starter-Kit for the Alcatel-Lucent Enterprise Rainbow SDK for Web",
   "private": true,
-  "author": "Brunch",
-  "version": "0.0.1",
+  "author": "Alcatel-Lucent Enterprise",
+  "version": "1.29.0",
   "repository": "",
   "scripts": {
     "start": "brunch watch --server",
