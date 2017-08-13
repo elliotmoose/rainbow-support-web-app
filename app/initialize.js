@@ -5,7 +5,7 @@ import App from 'components/App';
 document.addEventListener('DOMContentLoaded', () => {
 
     // do your setup here
-  console.log("[DEMO] :: Starter-Kit of the Rainbow SDK for Web with React started!");
+    console.log("[DEMO] :: Starter-Kit of the Rainbow SDK for Web with React started!");
   
     var applicationID = "", 
         applicationSecret = "";
