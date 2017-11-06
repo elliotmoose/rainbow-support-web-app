@@ -17,7 +17,7 @@ module.exports = {
         "plugins": {
             "babel": {presets: ['latest', 'react']},
             "copycat":{
-                "sdk" : ["node_modules/rainbow-web-sdk/dist/vendors-sdk.min.js", "node_modules/rainbow-web-sdk/dist/rainbow-sdk.min.js"],
+                "sdk" : ["node_modules/rainbow-web-sdk/dist/lib/vendors-sdk.min.js", "node_modules/rainbow-web-sdk/dist/lib/rainbow-sdk.min.js"],
                 verbose : true, //shows each file that is copied to the destination directory
                 onlyChanged: true //only copy a file if it's modified time has changed (only effective when using brunch watch)
               }

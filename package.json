@@ -3,19 +3,19 @@
   "description": "React + Brunch Starter-Kit for the Alcatel-Lucent Enterprise Rainbow SDK for Web",
   "private": true,
   "author": "Alcatel-Lucent Enterprise",
-  "version": "1.29.1",
+  "version": "1.32.0",
   "repository": "",
   "scripts": {
     "start": "brunch watch --server",
     "build": "brunch build --production"
   },
   "dependencies": {
-    "angular": "^1.6.5",
+    "angular": "^1.5.7",
     "jquery": "^3.2.1",
-    "moment": "^2.18.1",
-    "rainbow-web-sdk": "^1.29.3",
-    "react": "^15.4",
-    "react-dom": "^15.4"
+    "moment": "^2.19.1",
+    "rainbow-web-sdk": "^1.32.1",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
