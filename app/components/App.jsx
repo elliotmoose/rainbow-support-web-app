@@ -1,4 +1,5 @@
 import React from 'react';
+import Test from './Test';
 
 export default class App extends React.Component {
 
@@ -11,10 +12,12 @@ export default class App extends React.Component {
 
     render() {
         return (
-            <div id="content">
-            <h5>Time to <a href="https://api.openrainbow.com/">Play with SDK and APIs</a>.</h5>
-            <p>Version {this.state.version}</p>
+            <div>
+                <p>Version {this.state.version}</p>
+                <Test></Test>
             </div>
+            // <div id="content" style={{backgroundColor: 'red', width: '100%', height: '100%'}}>            
+            // </div>
         );
     }
 }

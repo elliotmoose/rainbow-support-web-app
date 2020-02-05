@@ -2,7 +2,14 @@
   font-family: -apple-system, Sans-Serif;
   text-align: center;
   font-size: 24pt;
-  color: #3f894a;
+  color: #3f894a;  
+  background-color: red;
+}
+
+body {
+  background-color: #27552e;
+  height: 100vh;
+  width: 100vw;
 }
 
 a {
