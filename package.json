@@ -10,7 +10,7 @@
     "build": "brunch build --production"
   },
   "dependencies": {
-    "angular": "^1.5.7",
+    "angular": "^1.8.3",
     "jquery": "^3.2.1",
     "moment": "^2.19.1",
     "rainbow-web-sdk": "^1.40.0",
